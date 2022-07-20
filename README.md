@@ -1,6 +1,6 @@
 ## About the project
 
-<img src="https://github.com/filipesalesaraujo/rockethelp/blob/main/rockethelp-mockup.png" width="100%">
+<img src="https://github.com/filipesalesaraujo/rockethelp/blob/master/rockethelp-mockup.png" width="100%">
 
 Application to open and manage issues. React Native, Expo, Native Base, Firebase Auth and Firebase Cloud Firestore were
 used.
